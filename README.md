@@ -1,7 +1,7 @@
 # E-Halal BTECHenyo Voting System
 
 ## **Overview**
-E-Halal BTECHenyo is a **web-based voting system** designed to facilitate fair and transparent voting processes within the local environment of **Dalubhasaang Politekniko ng Lungsod ng Baliwag**. This system operates exclusively on a **local server or intranet**, ensuring that it can only be accessed within the institution's network.
+E-Halal BTECHenyo is a **web-based voting system** designed to facilitate fair and transparent voting processes within the local environment of **Dalubhasaang Politekniko ng Lungsod ng Baliwag**. This system operates exclusively on a **local server**, ensuring that it can only be accessed within the institution's network.
 
 ## **Why Create a Web-based Voting System using PHP?**
 Creating a web-based voting system using **PHP** is a practical choice because PHP is a robust and widely-used **server-side scripting language** well-suited for building dynamic and secure web applications. PHP's flexibility allows for easy integration with **MySQL** databases, enabling efficient storage and retrieval of voter and election data. 
@@ -10,7 +10,7 @@ Key advantages of using PHP:
 - **Secure Data Handling**: Form validation, session management, and encryption features.
 - **Rapid Development**: Easily tailored to meet specific voting system requirements.
 - **Scalable & Maintainable**: Can be adapted to future needs with ease.
-- **Cost-effective**: Ideal for local deployments, such as within a school's intranet.
+- **Cost-effective**: Ideal for local deployments, such as within a school's local server.
 
 ## **Features of E-Halal BTECHenyo Voting System**
 The E-Halal BTECHenyo web-based voting system comes with a range of features to ensure a smooth voting experience:
