@@ -1,9 +1,9 @@
 # E-Halal BTECHenyo Voting System
 
-## 🌟 **Overview**
+## **Overview**
 E-Halal BTECHenyo is a **web-based voting system** designed to facilitate fair and transparent voting processes within the local environment of **Dalubhasaang Politekniko ng Lungsod ng Baliwag**. This system operates exclusively on a **local server or intranet**, ensuring that it can only be accessed within the institution's network.
 
-## 💡 **Why Create a Web-based Voting System using PHP?**
+## **Why Create a Web-based Voting System using PHP?**
 Creating a web-based voting system using **PHP** is a practical choice because PHP is a robust and widely-used **server-side scripting language** well-suited for building dynamic and secure web applications. PHP's flexibility allows for easy integration with **MySQL** databases, enabling efficient storage and retrieval of voter and election data. 
 
 Key advantages of using PHP:
@@ -12,7 +12,7 @@ Key advantages of using PHP:
 - **Scalable & Maintainable**: Can be adapted to future needs with ease.
 - **Cost-effective**: Ideal for local deployments, such as within a school's intranet.
 
-## 🛠️ **Features of E-Halal BTECHenyo Voting System**
+## **Features of E-Halal BTECHenyo Voting System**
 The E-Halal BTECHenyo web-based voting system comes with a range of features to ensure a smooth voting experience:
 
 - **Election Management**: Election officers can create and manage elections, including specifying election details, setting start and end times, and uploading election-related files (e.g., PDFs).
@@ -27,7 +27,7 @@ The E-Halal BTECHenyo web-based voting system comes with a range of features to 
 - **User Role Management**: Different user roles (election officers, admins, and voters) are created with specific permissions.
 - **Security and Encryption**: User data, including passwords and votes, is securely stored with encryption to ensure privacy and prevent unauthorized access.
 
-## 🔨 **The Steps**
+## **The Steps**
 
 ### 1. **Database Design**
 The first crucial step was designing the database schema. Our database includes the following key tables:
@@ -49,7 +49,7 @@ On the back-end, we used **PHP** to implement core features such as:
 ### 4. **Testing and Deployment**
 After testing, the system was deployed to a **local server** (XAMPP), making it accessible to election officers and voters.
 
-## 🧑‍💼 **E-Halal BTECHenyo Web-based Voting System Modules**
+## **E-Halal BTECHenyo Web-based Voting System Modules**
 
 The system includes three main phases: **Pre-Voting**, **Voting**, and **Post-Voting**. Below is a breakdown of the major processes and modules.
 
@@ -68,7 +68,7 @@ The system includes three main phases: **Pre-Voting**, **Voting**, and **Post-Vo
 - **Results Page**: Displays real-time election results and statistics.
 - **Audit Logs**: Logs of all actions performed during the election process are maintained for transparency.
 
-## 🛠️ **Technology Used**
+## **Technology Used**
 
 ### **Programming Language:**
 - **PHP** (Backend development)
@@ -101,7 +101,7 @@ The system includes three main phases: **Pre-Voting**, **Voting**, and **Post-Vo
 - **CSV Import** (Voter data import)
 - **Email System** (For sending login credentials to voters)
 
-## 📦 **Installation**
+## **Installation**
 
 ### **Prerequisites**
 - XAMPP (or any PHP server)
@@ -136,8 +136,5 @@ The system includes three main phases: **Pre-Voting**, **Voting**, and **Post-Vo
 7. **Access the Application**:
    - Open your browser and go to `http://localhost/<project-folder-name>`.
 
-## 🤝 **Open Contribution**
+## **Open Contribution**
 We welcome contributions to improve the **E-Halal BTECHenyo Voting System**! Fork the repository and submit a pull request. You can also open issues to suggest enhancements or report bugs.
-
-## 📝 **License**
-This project is open-source and available under the [MIT License](LICENSE).
