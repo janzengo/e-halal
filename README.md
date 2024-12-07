@@ -140,4 +140,4 @@ The system includes three main phases: **Pre-Voting**, **Voting**, and **Post-Vo
    - Open your browser and go to `http://localhost/<project-folder-name>`.
 
 ## **Open Contribution**
-We welcome contributions to improve the **E-Halal BTECHenyo Voting System**! Fork the repository and submit a pull request. You can also open issues to suggest enhancements or report bugs.
+We welcome contributions to improve the **E-Halal BTECHenyo Voting System**! Fork the repository and submit a pull request. You can also open issues to suggest enhancements or report bugs. Thanks!
