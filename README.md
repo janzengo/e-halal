@@ -1,7 +1,7 @@
 # E-Halal BTECHenyo Voting System
 
 ## **Overview**
-E-Halal BTECHenyo is a **web-based voting system** designed to facilitate fair and transparent voting processes within the local environment of **Dalubhasaang Politekniko ng Lungsod ng Baliwag**. This system operates exclusively on a **local server**, ensuring that it can only be accessed within the institution's network.
+E-Halal BTECHenyo is a **web-based voting system** designed to facilitate fair and transparent voting processes within the local environment of **Dalubhasaang Politekniko ng Lungsod ng Baliwag**. The system operates exclusively on a **local server**, ensuring that it can only be accessed within the institution's network.
 
 **Links:** <br>
 → [See Figma Initial Prototype](https://www.figma.com/proto/PyxQjWxouDlXKTBSaruGKh/E-Halal-BTECHenyo-Prototype?node-id=0-1&t=6yoDj6zfz0dnNCCD-1)
