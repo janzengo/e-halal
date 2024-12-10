@@ -10,7 +10,7 @@ E-Halal BTECHenyo is a **web-based voting system** designed to facilitate fair a
 Creating a web-based voting system using **PHP** is a practical choice because PHP is robust and widely-used **server-side scripting language** well-suited for building dynamic and secure web applications. PHP's flexibility allows for easy integration with **MySQL** databases, enabling efficient storage and retrieval of voter and election data. 
 
 Key advantages of using PHP:
-- **Secure Data Handling**: Form validation, session management, and encryption features.
+- **Secure Data Handling**: Form validation, session management, and encryption feature.
 - **Rapid Development**: Easily tailored to meet specific voting system requirements.
 - **Scalable & Maintainable**: Can be adapted to future needs with ease.
 - **Cost-effective**: Ideal for local deployments, such as within a school's local server.
